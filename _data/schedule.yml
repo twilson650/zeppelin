@@ -1,4 +1,8 @@
 - 
+  date: "2014-11-16"
+  dateReadable: "November 16"
+  tracks: 
+    - {title: "Sessions", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "9:00",

@@ -15,12 +15,12 @@ googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "twilson650.github.io"
 
 # Organizer Info
-organizerName: "GDG Lviv"
+organizerName: "GDG Silicon Valley"
 organizerAlternateName: "Google Developer Group Silicon Valley"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "twilson650@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://www.meetup.com/gdg-silicon-valley/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
@@ -51,9 +51,9 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest<typeout>2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+eventDate: "November 16, 2014"
+typeoutTextValues: '"", "Silicon Valley", "Mountain View", "California", "USA"'
+typeoutFallback: "Silicon Valley"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
