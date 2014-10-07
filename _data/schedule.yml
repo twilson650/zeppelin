@@ -1,8 +1,8 @@
 - 
   date: "2014-11-16"
-  dateReadable: "November 16"
+  dateReadable: "Sessions"
   tracks: 
-    - {title: "Sessions", color: "#90be4e"}
+    - {title: "Session", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "9:00",
@@ -49,3 +49,20 @@
     	endTime: "8:00PM",
     	sessionIds: [010]
     }
+- 
+  date: "2014-11-16"
+  dateReadable: "Code Labs"
+  tracks: 
+    - {title: "Code Lab", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "10:00",
+    	endTime: "12:00",
+    	sessionIds: [011]
+    }
+    - {
+    	startTime: "1:00PM",
+    	endTime: "3:00PM",
+    	sessionIds: [012, 013]
+    }
+    

@@ -83,9 +83,32 @@
 -
   id: 010
   title: "Dinner"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: ""
   subtype: keynote
-  speakers: [7]
+  speakers: []
   language: en
   complexity: "Expert"
-  
+-
+  id: 011
+  title: "Polymer Code Lab"
+  description: "We've developed a codelab that teaches Polymer (goes through the basics of Web Components and Shadow DOM, how to use already built components with the Polymer library, how to build your own custom components, etc.), and does so with the theme of media -- basically, we teach Polymer alongside the HTML5 media APIs, the YouTube APIs, and the Chromecast SDK ... it has proven to be a fun an engaging way to learn Polymer as well as be introduced to some of the media tools Google has to offer"
+  subtype: keynote
+  speakers: [3, 8]
+  language: en
+  complexity: "Expert"
+-
+  id: 012
+  title: "Coach Up, an App using Android Wear, YouTube and Google Play Services"
+  description: "In this CodeLab we will create an Android Wear App, using several technologies and services, like Geofencing and Activity Recognition from Google Play Services, YouTube Data API and YouTube native player for Android. The goal is to create an App that allows to use an Android Wear device to deliver an exercise plan based on a list of video exercises, recorded with location, and using geofencing and activity recognition services.We will use playlists on YouTube to define exercise plans associated with a kind of user activity e.g. running, cycling."
+  subtype: keynote
+  speakers: [4]
+  language: en
+  complexity: "Expert"
+-
+  id: 013
+  title: "HTML5 development and best practices with Google Cloud Technologies"
+  description: "teach developers the new best practices (component focused structure) for making HTML5 projects and how to use Google Drive to host and fast prototype their projects by making a web app that displays Google Charts showing information stored on a Google Spreadsheet, with g+ sign in button integration."
+  subtype: keynote
+  speakers: [9]
+  language: en
+  complexity: "Expert"  

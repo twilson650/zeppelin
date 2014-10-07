@@ -50,3 +50,27 @@
   bio: ""
   thumbnailUrl: SharifSalah.jpg
   rockstar: true
+- 
+  id: 8
+  name: "Jarom"
+  surname: "McDonald"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: JaromMcDonald.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+JaromMcDonald"}
+- 
+  id: 9
+  name: "César Antón"
+  surname: "Dorantes"
+  company: ""
+  title: ""
+  bio: "I'm a front-end developer and a technical writer, I love going to weekend events to give tech talks and mentor teams through their projects. I love experimenting with new HTML5 technologies and share what I learn on my blog. Last year I filmed a series of 5 videos for Google Developers Hackademy, but the content is in Spanish and this would be a chance to share it in English and updated."
+  thumbnailUrl: CesarDorantes.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+CesarAnton"}
+ 
+ 
