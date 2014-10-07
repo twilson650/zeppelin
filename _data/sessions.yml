@@ -93,7 +93,7 @@
   title: "Polymer Code Lab"
   description: "We've developed a codelab that teaches Polymer (goes through the basics of Web Components and Shadow DOM, how to use already built components with the Polymer library, how to build your own custom components, etc.), and does so with the theme of media -- basically, we teach Polymer alongside the HTML5 media APIs, the YouTube APIs, and the Chromecast SDK ... it has proven to be a fun an engaging way to learn Polymer as well as be introduced to some of the media tools Google has to offer"
   subtype: keynote
-  speakers: [3, 8]
+  speakers: [3, 10]
   language: en
   complexity: "Expert"
 -

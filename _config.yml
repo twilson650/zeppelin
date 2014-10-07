@@ -52,7 +52,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest<typeout>2014"
 eventDate: "November 16, 2014"
-typeoutTextValues: '"", "Silicon Valley", "Mountain View", "California", "USA"'
+typeoutTextValues: '"", "SiliconValley"'
 typeoutFallback: "Silicon Valley"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
