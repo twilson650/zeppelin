@@ -10,7 +10,7 @@
   service: true
 -
   id: 001
-  title: "Common Polymer 101 Session"
+  title: "Polymer"
   description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
   subtype: workshop
   speakers: [3]
@@ -19,15 +19,15 @@
 -
   id: 002
   title: "Android Wear - An overview of the SDK"
-  description: "Android wear extends the Android platform to a new generation of wearable devices. The user experience is designed specifically for wearables. In this session you’ll see how to use the Android Wear SDK to build a connected cloud-powered application. Using Android Studio and it’s cloud extensions, you’ll see how to build an app that ‘listens’ for changes in stock prices, and notifies a wearable device. You’ll also see how to use voice controls on the device to trigger interactions with the app, such as buying or selling the stock after a notification. Call to action: Get the SDK and start building apps today!"
+  description: "Android Wear - An overview of the SDK, while focusing on thinking about how to design a great experience for wearables. Watches are different from phones, and that's OK. We can use the watch to add functionality that will enhance the phone app, and the user's experience."
   subtype: presentation
   speakers: [4]
   language: en
   complexity: "Beginner"
 -
   id: 003
-  title: "Fall back for a community speaker"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "Channel Organizer using Word2Vec"
+  description: "In this session we will see how we can use the Freebase metadata including on YouTube videos to organize our videos by topic into playlists, sorted by popularity. Finally we will create sections on our YouTube channel with these playlists. The goal is to show an example of how you can use the YouTube Data API and your own secret sauce, to organize automatically the content of your channel."
   subtype: presentation
   speakers: [5]
   language: en
@@ -35,10 +35,10 @@
 -
   id: 004
   title: "Lunch"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: ""
   subtype: keynote
   speakers: [6]
-  language: uk
+  language: en
   complexity: "Beginner"
 -
   id: 005
@@ -50,16 +50,16 @@
   complexity: "Expert"
 -
   id: 006
-  title: "Community Speakers"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  title: "Go on App Engine"
+  description: "Go on App Engine adapted from the official codelabs from Google I/O 2014. If this is something you think would be a good fit I may invite additional GDEs (around 2 to 3) to contribute as teaching assistants (TA) on the day. I took part as a TA in the London DevFest in 2013 with a similar setup and it was a lot of fun for all involved."
   subtype: keynote
   speakers: [7]
   language: en
   complexity: "Expert"
 -
   id: 007
-  title: "Fallback for a community speaker"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  title: "Hacking Google Analytics"
+  description: "This presentation will go into the main features of Google Analytics such as events, custom dimensions and metrics, and the measurement protocol. I will show some new, innovative and just down right fun ways to use GA to measure your sites, apps, and even yourself. All examples will have links to code and resources so the attendees can recreate the various tests and hacks."
   subtype: keynote
   speakers: [7]
   language: en
@@ -67,7 +67,7 @@
 -
   id: 008
   title: "ECMAScript 6 - The Future is Here"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: "Ecmascript 6 is the future version of Javascript and is packed with goodies and our life much more convenient and web programming much more fun. It is only a few months away - so let's start preparing now. In this talk, you will get an overview of the new features, including modules, classes, promises, arrow functions, generators, template strings. You will also see how you can start using ES6 today with the Google's Traceur compiler."
   subtype: keynote
   speakers: [7]
   language: en
@@ -75,9 +75,9 @@
 -
   id: 009
   title: "Internet of Things - Panel Discussion"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: ""
   subtype: keynote
-  speakers: [7]
+  speakers: []
   language: en
   complexity: "Expert"
 -
@@ -112,3 +112,53 @@
   speakers: [9]
   language: en
   complexity: "Expert"  
+-
+  id: 100
+  title: "Experimenting with ServiceWorker"
+  description: "This lightning talk aims to introduce the upcoming ServiceWorker technology, its basic functionalities, its lifecycle and its most common use cases. Then it moves to analyse in detail a less obvious implementation of this technology: how to create a wiki engine using ServiceWorker and IndexedDB."
+  subtype: keynote
+  speakers: [5]
+  language: en
+  complexity: "Expert"  
+-
+  id: 101
+  title: "AdMob"
+  description: "You might know Flappy birds game which garnered $50,000 in a day just with AdMob ads. Yes, I too benefited from it (my case study here) and would love to share my experience. Similarly points would be in my talk on how it can benefit mobile developers."
+  subtype: keynote
+  speakers: [11]
+  language: en
+  complexity: "Expert"  
+-
+  id: 102
+  title: "Avoiding Common Pitfalls in AngularJS"
+  description: "The things I wish someone told me when I started developing with Angular.JS. We will explore the Best practices as well Anti-Patterns every Angular.JS developer should be aware of."
+  subtype: keynote
+  speakers: [6]
+  language: en
+  complexity: "Expert"  
+-
+  id: 103
+  title: "Google Glass"
+  description: "Google Glass - An overview of the SDK, while focusing on thinking about how to design a great experience for Glass. Glass is different from phones, and that's OK. We can use the watch to add functionality that will enhance the phone app, and the user's experience."
+  subtype: keynote
+  speakers: [12]
+  language: en
+  complexity: "Expert"  
+-
+  id: 104
+  title: "Extensive testing to build robust Android apps with Genymotion"
+  description: "Description: Android Apps are more and more featured and extensive quality testing is now a must have. You will see how easy it is to use Genymotion, its java API, and its on the fly devices control scripting to integrate automated testing in your continuous integration process."
+  subtype: keynote
+  speakers: []
+  language: en
+  complexity: "Expert"  
+-
+  id: 105
+  title: "Go on AppEngine"
+  description: "Go on App Engine adapted from the official codelabs from Google I/O 2014. If this is something you think would be a good fit I may invite additional GDEs (around 2 to 3) to contribute as teaching assistants (TA) on the day. I took part as a TA in the London DevFest in 2013 with a similar setup and it was a lot of fun for all involved."
+  subtype: keynote
+  speakers: [8]
+  language: en
+  complexity: "Expert"  
+  
+  

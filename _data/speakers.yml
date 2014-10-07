@@ -72,5 +72,27 @@
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+CesarAnton"}
- 
+- 
+  id: 11
+  name: "Kunal"
+  surname: "Verma"
+  company: ""
+  title: ""
+  bio: "Android/iOS Developer, Google developer expert (AdMob), Loves playing with animation code. ( add me smart_karlos on PS3)."
+  thumbnailUrl: KunalVerma.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+KunalVerma"}
+- 
+  id: 12
+  name: "John"
+  surname: "Feig"
+  company: ""
+  title: ""
+  bio: "Google Developer Expert for Wearables (Google Glass and Android Wear) and Software Engineer at TiKL, Inc. I am quite happy at this position and not in the market for new opportunities at this time. I get to do lots of fun stuff at TiKL, like writing clients for new platforms from scratch, and touching the full stack. I have worked on the Android client, the Java servers, the in-development web client, a bit of PhotoShop, as well as keeping up with TiKL's social media presence. My goal as a GDE is to help people write solid code, and help them to really wrap their heads around the platform."
+  thumbnailUrl: JohnFeig.png
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+EJohnFeig"}
+
  
