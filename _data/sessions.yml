@@ -9,10 +9,16 @@
   place: "Dining room"
   service: true
 -
+-
+  id: 504
+  title: "Dinner"
+  place: "Dining room"
+  service: true
+-
   id: 001
   title: "Polymer"
   description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
+  subtype: presentation
   speakers: [3]
   language: en
   complexity: "Intermediate"
@@ -33,34 +39,26 @@
   language: en
   complexity: "Expert"
 -
-  id: 004
-  title: "Lunch"
-  description: ""
-  subtype: keynote
-  speakers: [6]
-  language: en
-  complexity: "Beginner"
--
   id: 005
   title: "Lightning Talks"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
+  description: ""
+  subtype: presentation
+  speakers: []
   language: en
-  complexity: "Expert"
+  complexity: "Beginner"
 -
   id: 006
   title: "Go on App Engine"
   description: "Go on App Engine adapted from the official codelabs from Google I/O 2014. If this is something you think would be a good fit I may invite additional GDEs (around 2 to 3) to contribute as teaching assistants (TA) on the day. I took part as a TA in the London DevFest in 2013 with a similar setup and it was a lot of fun for all involved."
-  subtype: keynote
-  speakers: [7]
+  subtype: presentation
+  speakers: [8]
   language: en
   complexity: "Expert"
 -
   id: 007
   title: "Hacking Google Analytics"
   description: "This presentation will go into the main features of Google Analytics such as events, custom dimensions and metrics, and the measurement protocol. I will show some new, innovative and just down right fun ways to use GA to measure your sites, apps, and even yourself. All examples will have links to code and resources so the attendees can recreate the various tests and hacks."
-  subtype: keynote
+  subtype: presentation
   speakers: [7]
   language: en
   complexity: "Expert"
@@ -68,23 +66,15 @@
   id: 008
   title: "ECMAScript 6 - The Future is Here"
   description: "Ecmascript 6 is the future version of Javascript and is packed with goodies and our life much more convenient and web programming much more fun. It is only a few months away - so let's start preparing now. In this talk, you will get an overview of the new features, including modules, classes, promises, arrow functions, generators, template strings. You will also see how you can start using ES6 today with the Google's Traceur compiler."
-  subtype: keynote
-  speakers: [7]
+  subtype: presentation
+  speakers: [6]
   language: en
   complexity: "Expert"
 -
   id: 009
   title: "Internet of Things - Panel Discussion"
   description: ""
-  subtype: keynote
-  speakers: []
-  language: en
-  complexity: "Expert"
--
-  id: 010
-  title: "Dinner"
-  description: ""
-  subtype: keynote
+  subtype: presentation
   speakers: []
   language: en
   complexity: "Expert"
@@ -92,7 +82,7 @@
   id: 011
   title: "Polymer Code Lab"
   description: "We've developed a codelab that teaches Polymer (goes through the basics of Web Components and Shadow DOM, how to use already built components with the Polymer library, how to build your own custom components, etc.), and does so with the theme of media -- basically, we teach Polymer alongside the HTML5 media APIs, the YouTube APIs, and the Chromecast SDK ... it has proven to be a fun an engaging way to learn Polymer as well as be introduced to some of the media tools Google has to offer"
-  subtype: keynote
+  subtype: workshop
   speakers: [3, 10]
   language: en
   complexity: "Expert"
@@ -100,7 +90,7 @@
   id: 012
   title: "Coach Up, an App using Android Wear, YouTube and Google Play Services"
   description: "In this CodeLab we will create an Android Wear App, using several technologies and services, like Geofencing and Activity Recognition from Google Play Services, YouTube Data API and YouTube native player for Android. The goal is to create an App that allows to use an Android Wear device to deliver an exercise plan based on a list of video exercises, recorded with location, and using geofencing and activity recognition services.We will use playlists on YouTube to define exercise plans associated with a kind of user activity e.g. running, cycling."
-  subtype: keynote
+  subtype: workshop
   speakers: [4]
   language: en
   complexity: "Expert"
@@ -108,7 +98,7 @@
   id: 013
   title: "HTML5 development and best practices with Google Cloud Technologies"
   description: "teach developers the new best practices (component focused structure) for making HTML5 projects and how to use Google Drive to host and fast prototype their projects by making a web app that displays Google Charts showing information stored on a Google Spreadsheet, with g+ sign in button integration."
-  subtype: keynote
+  subtype: workshop
   speakers: [9]
   language: en
   complexity: "Expert"  
@@ -140,7 +130,7 @@
   id: 103
   title: "Google Glass"
   description: "Google Glass - An overview of the SDK, while focusing on thinking about how to design a great experience for Glass. Glass is different from phones, and that's OK. We can use the watch to add functionality that will enhance the phone app, and the user's experience."
-  subtype: keynote
+  subtype: workshop
   speakers: [12]
   language: en
   complexity: "Expert"  
@@ -148,7 +138,7 @@
   id: 104
   title: "Extensive testing to build robust Android apps with Genymotion"
   description: "Description: Android Apps are more and more featured and extensive quality testing is now a must have. You will see how easy it is to use Genymotion, its java API, and its on the fly devices control scripting to integrate automated testing in your continuous integration process."
-  subtype: keynote
+  subtype: workshop
   speakers: []
   language: en
   complexity: "Expert"  
@@ -156,7 +146,7 @@
   id: 105
   title: "Go on AppEngine"
   description: "Go on App Engine adapted from the official codelabs from Google I/O 2014. If this is something you think would be a good fit I may invite additional GDEs (around 2 to 3) to contribute as teaching assistants (TA) on the day. I took part as a TA in the London DevFest in 2013 with a similar setup and it was a lot of fun for all involved."
-  subtype: keynote
+  subtype: workshop
   speakers: [8]
   language: en
   complexity: "Expert"  
