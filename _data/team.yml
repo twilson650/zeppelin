@@ -8,10 +8,7 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "google-plus", link: "https://plus.google.com/+RitaSachdev"}
 - 
   id: 1
   name: "Peter"
@@ -22,8 +19,7 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "google-plus", link: "https://google.com/+PeterMooshammer"}
 - 
   id: 2
   name: "Tom"
@@ -34,7 +30,7 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
+    - {name: "google-plus", link: "https://plus.google.com/+TomWilson1"}
     - {name: "twitter", link: "https://twitter.com/twilson650"}
     - {name: "github", link: "https://github.com/twilson650"}
     - {name: "site", link: "http://nerdpod.blogspot.com/"}
