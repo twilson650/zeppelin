@@ -13,6 +13,6 @@
   group: "Information partners"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "Google Developers Group", description: "Google", link: "https://developers.google.com", imageUrl: "google.svg"}
+    - {name: "Google Developers Group", description: "Google", link: "https://developers.google.com", imageUrl: "developers_logo.png"}
     - {name: "GDG Silicon Valley", description: "Google Developer Group Silicon Valley", link: "http://www.meetup.com/gdg-silicon-valley", imageUrl: "gdg-sv.jpeg"}
     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
