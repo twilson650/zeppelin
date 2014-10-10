@@ -18,7 +18,7 @@ permalink: "/blog/:title"
 organizerName: "GDG Silicon Valley"
 organizerAlternateName: "Google Developer Group Silicon Valley"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "twilson650@gmail.com"
+organizerEmail: "info@gdgsv.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.meetup.com/gdg-silicon-valley/"
 
@@ -118,7 +118,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:twilson650@gmail.com", text: "twilson650@gmail.com"}
+   - {link: "mailto:info@gdgsv.com", text: "info@gdgsv.com"}
  -
   title: "FAQ"
   links:
