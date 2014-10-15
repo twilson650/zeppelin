@@ -3,7 +3,7 @@
   name: "Rob"
   surname: "Dodson"
   thumbnailUrl: RobDodson.jpg
-  rockstar: false
+  rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+RobDodson"}
 - 
@@ -58,7 +58,7 @@
   title: ""
   bio: ""
   thumbnailUrl: JaromMcDonald.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+JaromMcDonald"}
 - 
