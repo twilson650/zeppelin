@@ -41,14 +41,6 @@
   language: en
   complexity: "Beginner"
 -
-  id: 003
-  title: "Channel Organizer using Word2Vec"
-  description: "In this session we will see how we can use the Freebase metadata including on YouTube videos to organize our videos by topic into playlists, sorted by popularity. Finally we will create sections on our YouTube channel with these playlists. The goal is to show an example of how you can use the YouTube Data API and your own secret sauce, to organize automatically the content of your channel."
-  subtype: presentation
-  speakers: [5]
-  language: en
-  complexity: "Expert"
--
   id: 005
   title: "Lightning Talks"
   description: ""
@@ -56,22 +48,6 @@
   speakers: []
   language: en
   complexity: "Beginner"
--
-  id: 006
-  title: "Go on App Engine"
-  description: "Go on App Engine adapted from the official codelabs from Google I/O 2014. If this is something you think would be a good fit I may invite additional GDEs (around 2 to 3) to contribute as teaching assistants (TA) on the day. I took part as a TA in the London DevFest in 2013 with a similar setup and it was a lot of fun for all involved."
-  subtype: presentation
-  speakers: [8]
-  language: en
-  complexity: "Expert"
--
-  id: 007
-  title: "Hacking Google Analytics"
-  description: "This presentation will go into the main features of Google Analytics such as events, custom dimensions and metrics, and the measurement protocol. I will show some new, innovative and just down right fun ways to use GA to measure your sites, apps, and even yourself. All examples will have links to code and resources so the attendees can recreate the various tests and hacks."
-  subtype: presentation
-  speakers: [7]
-  language: en
-  complexity: "Expert"
 -
   id: 008
   title: "ECMAScript 6 - The Future is Here"
@@ -120,53 +96,3 @@
   speakers: [13]
   language: en
   complexity: "Intermediate"  
--
-  id: 100
-  title: "Experimenting with ServiceWorker"
-  description: "This lightning talk aims to introduce the upcoming ServiceWorker technology, its basic functionalities, its lifecycle and its most common use cases. Then it moves to analyse in detail a less obvious implementation of this technology: how to create a wiki engine using ServiceWorker and IndexedDB."
-  subtype: keynote
-  speakers: [5]
-  language: en
-  complexity: "Expert"  
--
-  id: 101
-  title: "AdMob"
-  description: "You might know Flappy birds game which garnered $50,000 in a day just with AdMob ads. Yes, I too benefited from it (my case study here) and would love to share my experience. Similarly points would be in my talk on how it can benefit mobile developers."
-  subtype: keynote
-  speakers: [11]
-  language: en
-  complexity: "Expert"  
--
-  id: 102
-  title: "Avoiding Common Pitfalls in AngularJS"
-  description: "The things I wish someone told me when I started developing with Angular.JS. We will explore the Best practices as well Anti-Patterns every Angular.JS developer should be aware of."
-  subtype: keynote
-  speakers: [6]
-  language: en
-  complexity: "Expert"  
--
-  id: 103
-  title: "Google Glass"
-  description: "Google Glass - An overview of the SDK, while focusing on thinking about how to design a great experience for Glass. Glass is different from phones, and that's OK. We can use the watch to add functionality that will enhance the phone app, and the user's experience."
-  subtype: workshop
-  speakers: [12]
-  language: en
-  complexity: "Expert"  
--
-  id: 104
-  title: "Extensive testing to build robust Android apps with Genymotion"
-  description: "Description: Android Apps are more and more featured and extensive quality testing is now a must have. You will see how easy it is to use Genymotion, its java API, and its on the fly devices control scripting to integrate automated testing in your continuous integration process."
-  subtype: workshop
-  speakers: []
-  language: en
-  complexity: "Expert"  
--
-  id: 105
-  title: "Go on AppEngine"
-  description: "Go on App Engine adapted from the official codelabs from Google I/O 2014. If this is something you think would be a good fit I may invite additional GDEs (around 2 to 3) to contribute as teaching assistants (TA) on the day. I took part as a TA in the London DevFest in 2013 with a similar setup and it was a lot of fun for all involved."
-  subtype: workshop
-  speakers: [8]
-  language: en
-  complexity: "Expert"  
-  
-  

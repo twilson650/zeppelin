@@ -15,15 +15,6 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+MatiasMolinas/about"}
 - 
-  id: 5
-  name: "Sandro"
-  surname: "Paganotti"
-  bio: "Sandro Paganotti (1983) is co-founder and Front End engineer at Comparto Web. He loves developing web interfaces that showcase the full power of HTML5 and CSS3. He's author of Designing next generation web Projects with CSS3 for Packt Publishing, technical writer for html.it, Google Developer Expert in HTML5, speaker at various technical events and co-teacher at the workshop CodeJam for Avanscoperta."
-  thumbnailUrl: SandroPaganotti.png
-  rockstar: false
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+SandroPaganotti"}
-- 
   id: 6
   name: "Uri"
   surname: "Shaked"
@@ -31,24 +22,6 @@
   title: ""
   bio: "Uri loves the web. Started developing software at the age of 12, he has since been pursuing his passion for technology, both professionally and through notable side projects and community activities. He is a Lean Startup enthusiast, the lead of Tel Aviv’s Google Developer Group and is an Angular.JS expert who lectures in an advanced web development code lab at the Technion, Israel’s Institute of Technology. Among his interests are reverse engineering, hardware hacking, and mobile development. Uri is also an avid Salsa dancer and a musician; he often likes to bring his passions together in projects such as the SalsaBeatMachine.org."
   thumbnailUrl: UriShaked.jpg
-  rockstar: false
-- 
-  id: 7
-  name: "Nico"
-  surname: "Miceli"
-  company: ""
-  title: ""
-  bio: "Nico Miceli is a Technical Analytics Consultant and a Google Developer Expert for Google Analytics(GA). He specializes in user behavior analysis and technical analytics. He loves data driven marketing, quantifying himself, and adding GA into anything he can hack."
-  thumbnailUrl: NicoMiceli.JPG
-  rockstar: false
-- 
-  id: 8
-  name: "Sharif"
-  surname: "Salah"
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: SharifSalah.JPG
   rockstar: false
 - 
   id: 10
@@ -72,17 +45,6 @@
   rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+CesarAnton"}
-- 
-  id: 11
-  name: "Kunal"
-  surname: "Verma"
-  company: ""
-  title: ""
-  bio: "Android/iOS Developer, Google developer expert (AdMob), Loves playing with animation code. ( add me smart_karlos on PS3)."
-  thumbnailUrl: KunalVerma.jpg
-  rockstar: false
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+KunalVerma"}
 - 
   id: 12
   name: "John"
