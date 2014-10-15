@@ -11,8 +11,8 @@ description: "GDG DevFest is a set of events all around the world"
 baseurl: ""
 url: "http://devfest2014.gdgsv.com"
 permalink: "/blog/:title"
-#googleAnalyticsTrackingId: "UA-43643469-5"
-#googleAnalyticsSiteUrl: "twilson650.github.io"
+googleAnalyticsTrackingId: "UA-55779719-1"
+googleAnalyticsSiteUrl: "hdevfest2014.gdgsv.com/"
 
 # Organizer Info
 organizerName: "GDG Silicon Valley"
