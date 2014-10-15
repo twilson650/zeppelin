@@ -113,6 +113,14 @@
   language: en
   complexity: "Expert"  
 -
+  id: 014
+  title: "Angular or Backbone: Go Mobile!"
+  description: "Angular or Backbone, which one you will use in your mobile app? How could you develop a mobile app across iOS, Android or windows devices? This talk will take an intimate look at two of today’s most popular frameworks, Angular and Backbone and explore their differences. We’ll show how Apache Cordova opens the world of mobile app development to web developers. In the session, we will demonstrate a “To Do” app using Angular and Backbone, with access to native device capabilities. We’ll compare the frameworks when transported to the world of mobile app development."
+  subtype: presentation
+  speakers: [13]
+  language: en
+  complexity: "Intermediate"  
+-
   id: 100
   title: "Experimenting with ServiceWorker"
   description: "This lightning talk aims to introduce the upcoming ServiceWorker technology, its basic functionalities, its lifecycle and its most common use cases. Then it moves to analyse in detail a less obvious implementation of this technology: how to create a wiki engine using ServiceWorker and IndexedDB."
