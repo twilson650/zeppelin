@@ -35,9 +35,9 @@
 -
   id: 002
   title: "Android Wear - An overview of the SDK"
-  description: "Android Wear - An overview of the SDK, while focusing on thinking about how to design a great experience for wearables. Watches are different from phones, and that's OK. We can use the watch to add functionality that will enhance the phone app, and the user's experience."
+  description: "Android Wear - An overview of the SDK, while focusing on thinking about how to design a great experience for Wear. Android Wear is different from phones, and that's OK. We can use the watch to add functionality that will enhance the phone app, and the user's experience."
   subtype: presentation
-  speakers: [4]
+  speakers: [12]
   language: en
   complexity: "Beginner"
 -
