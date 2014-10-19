@@ -26,8 +26,12 @@
   service: true
 -
   id: 001
-  title: "Polymer"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  title: "Polymer 101"
+  description: "Polymer is a first of its kind library. It’s designed to leverage the emerging Web Component standards, to make web app development a breeze! If you’re new to Web Components, or curious about the latest and greatest features that Polymer has to offer, we want to see you in this session!
+
+We’ll kick off with an overview of Polymer to get everyone up to speed, explore the growing component ecosystem, and take a look at the next generation of web apps. Then we’ll dive into building out elements and apps with your choice of self-guided code labs.
+
+Grab your thinking caps: #itshackademic with Polymer! "
   subtype: presentation
   speakers: [3]
   language: en
@@ -49,6 +53,20 @@
   language: en
   complexity: "Beginner"
 -
+  id: 006
+  title: "Mobile Growth Hacking: Lessons Learned from Growing from Zero to 100M Installs"
+  description: "The old adage of the ‘field of dreams’ isn’t true – create a mobile app, publish it and the installs will just happen. That is no longer true anymore.
+
+You spent all this time, effort, money and energy building an app. Why is no one downloading it? You would expect that if you build an awesome feature-rich application, it would kill it in the App Store.
+
+Growth hacking techniques that drive installs is an art. Building a mobile application is only the first hurdle in developing a successful application. There is a lot of intricacy that goes into growth hacking and gaining not only users, but loyal users and driving real DAUs.
+
+Come to this session and learn all the insiders growth hacking tips from Dolphin Browser."
+  subtype: presentation
+  speakers: [14]
+  language: en
+  complexity: "Intermediate"
+-
   id: 008
   title: "ECMAScript 6 - The Future is Here"
   description: "Ecmascript 6 is the future version of Javascript and is packed with goodies and our life much more convenient and web programming much more fun. It is only a few months away - so let's start preparing now. In this talk, you will get an overview of the new features, including modules, classes, promises, arrow functions, generators, template strings. You will also see how you can start using ES6 today with the Google's Traceur compiler."
@@ -66,8 +84,10 @@
   complexity: "Expert"
 -
   id: 011
-  title: "Polymer Code Lab"
-  description: "We've developed a codelab that teaches Polymer (goes through the basics of Web Components and Shadow DOM, how to use already built components with the Polymer library, how to build your own custom components, etc.), and does so with the theme of media -- basically, we teach Polymer alongside the HTML5 media APIs, the YouTube APIs, and the Chromecast SDK ... it has proven to be a fun an engaging way to learn Polymer as well as be introduced to some of the media tools Google has to offer"
+  title: "Polymer Code Labs"
+  description: "We’ve created a series of codelabs to take you from Polymer beginner to expert element wrangler in no time. 
+
+We’ll start with a quick, interactive run through of Polymer and the features that it offers. Then we’ll step it up a notch and build our first full fledged mobile app in Polymer. Finally, we’ll explore what it means to work with an API like Google Maps, using nothing but HTML. If you’re curious about the future of web app development, come join us for some serious hacking fun."
   subtype: workshop
   speakers: [3, 10]
   language: en

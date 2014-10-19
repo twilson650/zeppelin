@@ -68,5 +68,22 @@
   social: 
     - {name: "blog", link: "http://blogs.msdn.com/b/dorischen/"}
     - {name: "twitter", link: "https://twitter.com/doristchen"}
+-
+  id: 14
+  name: "Edith"
+  surname: "Yeung"
+  company: "Dolphin Browser"
+  title: ""
+  bio: "Edith Yeung is the VP of international business development and marketing for Dolphin Browser based out of San Francisco. Dolphin Browser is a Sequoia-backed mobile browser with over 100 million installs worldwide (http://techcrunch.com/2014/01/15/dolphin-labs/).
 
+She also founded RightVentures (http://rightventures.com)- seed stage investment firm focusing on mobile and consumer internet companies. Some of her investments include Fleksy, Mighty Text, Pack, Bounce.io etc. She is also an advisor to Strikingly.
+
+Before all the startup world, she worked with companies like AT&T Wireless, Oracle, Siebel, Autodesk, Cisco, Telstra and Hungary Telecom. A few years back, she also founded BizTech, the insightful voice of news, events & research for the SMB internet market and SFentrepreneur, San Francisco's largest entrepreneurs meetup,
+
+You can also find some of her work on CNBC (http://www.cnbc.com/id/101268605), CBS , NPR, World Journal News, Techcrunch, Next Web, Mashable, Read Write Web, Small Business Trends, Fora and others. She frequently speaks on mobile, women and international entrepreneurship. And she loves dogs. :)"
+  thumbnailUrl: edith.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/116209689631734855369/"}
+  
  

@@ -37,7 +37,7 @@
     - {
     	startTime: "3:00PM",
     	endTime: "4:00PM",
-    	sessionIds: [000]
+    	sessionIds: [006]
     }
     - {
     	startTime: "4:00PM",
