@@ -25,6 +25,11 @@
   place: "Dining room"
   service: true
 -
+  id: 505
+  title: "Survey and Raffle"
+  place: "Dining room"
+  service: true
+-
   id: 001
   title: "Polymer 101"
   description: "Polymer is a first of its kind library. It’s designed to leverage the emerging Web Component standards, to make web app development a breeze! If you’re new to Web Components, or curious about the latest and greatest features that Polymer has to offer, we want to see you in this session!
@@ -116,3 +121,12 @@ We’ll start with a quick, interactive run through of Polymer and the features 
   speakers: [13]
   language: en
   complexity: "Intermediate"  
+-
+  id: 015
+  title: "Root Access Live"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Beginner"  
+  

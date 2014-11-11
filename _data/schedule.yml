@@ -46,12 +46,17 @@
     }
     - {
     	startTime: "5:00PM",
-    	endTime: "6:30PM",
-    	sessionIds: [009]
+    	endTime: "5:20PM",
+    	sessionIds: [505]
     }
     - {
-    	startTime: "6:30PM",
-    	endTime: "8:00PM",
+    	startTime: "5:20PM",
+    	endTime: "6:00PM",
+    	sessionIds: [015]
+    }
+    - {
+    	startTime: "5:20PM",
+    	endTime: "6:00PM",
     	sessionIds: [504]
     }
 - 
